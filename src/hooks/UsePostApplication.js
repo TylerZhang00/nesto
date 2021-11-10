@@ -5,7 +5,7 @@ const usePostApplication = () => {
     headers: {
       Accept: "application/json",
       "Content-Type": "application/json",
-      "X-Nesto-Candidat": "Yiqi Zhang7",
+      "X-Nesto-Candidat": "Yiqi Zhang",
     },
   };
 
